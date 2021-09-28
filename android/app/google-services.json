@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325178479664",
+    "project_id": "bddbuena-17cc7",
+    "storage_bucket": "bddbuena-17cc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325178479664:android:ca3de73803d4d6fd4c09f5",
+        "android_client_info": {
+          "package_name": "com.example.buenobdd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325178479664-jo4munoqd8ko9s76mrue9d1b74tksqt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VyPMb9B6ANZAh7vsAYSqQD5d89fIu68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325178479664-jo4munoqd8ko9s76mrue9d1b74tksqt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
