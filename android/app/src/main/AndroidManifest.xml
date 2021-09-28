@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.buenobdd">
    <application
-        android:label="buenobdd"
+        android:label="ChatApp"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
